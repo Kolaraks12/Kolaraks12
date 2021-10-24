@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kola Rakesh
 - 👀 This is my github repository
-- 🌱 I have done Mini Project on  FaceMask detector
+- 🌱 My Projects were Included in this repository
 -
 
 <!---
